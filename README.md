@@ -7,3 +7,5 @@ You can play the game at: https://gh-workshop-20261116.github.io/github-games-ru
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+
+## update 2
