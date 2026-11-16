@@ -2,8 +2,10 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: https://github.com/gh-workshop-20261116/github-games-ruanswart-cloud
+You can play the game at: https://gh-workshop-20261116.github.io/github-games-ruanswart-cloud
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+
+## update 2
